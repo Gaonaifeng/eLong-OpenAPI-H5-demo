@@ -1,0 +1,27 @@
+.error-text
+{
+	width:100%;
+	color:red;
+	display:flex;
+    justify-content:center;
+}
+
+.aui-btn-info
+{
+	width:80%;
+	left:10%;
+}
+
+.txt-content
+{
+	width:100%;
+	position:absolute;
+	top:40%;
+}
+
+.btn-content
+{
+	width:100%;
+	position:absolute;
+	top:80%;
+}

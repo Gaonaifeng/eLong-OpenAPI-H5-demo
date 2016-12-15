@@ -1,0 +1,68 @@
+a
+{
+	width:100%;
+}
+
+.order-status-o
+{
+	color:#ff9933;
+	font-size:14px;
+}
+
+.hotel-name
+{
+	color:red;
+}
+
+.total-price
+{
+	position:absolute;
+	right:10px;
+}
+
+.aui-list-item
+{
+	margin-bottom:100px;
+}
+
+.aui-content-padded
+{
+	margin:0px;
+	width:98%;
+}
+
+.aui-card-list-content-padded
+{
+}
+
+.aui-card-list
+{
+	margin:0px;
+}
+
+.button-re
+{
+	position:absolute;
+	top:10px;
+	right:10px;
+	height:60%;
+	width:100px;
+}
+
+.loading
+{
+	margin: 0 auto;
+    text-align: center;
+}
+
+.more
+{
+	margin: 0 auto;
+    text-align: center;
+}
+
+.night-number
+{
+	position:absolute;
+	right:10px;
+}
