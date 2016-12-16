@@ -1,7 +1,7 @@
 当前版本：branch1.0.0
 
 ****************************** 配置说明 **************************************
-第一步：修改配置文件
+第一步：修改配置文件:
 /nb_demo_h5/src/main/resources/conf/custom/env/common.properties
 
 第二步：maven命令打包
